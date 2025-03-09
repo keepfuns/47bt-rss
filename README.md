@@ -42,6 +42,6 @@ docker run -d \
 - 如果您欣赏本项目，欢迎为它点亮一颗⭐️
 - 如果本项目对您有帮助，不妨请我喝杯咖啡
 <br/><br/>
-<img src="assets/zhifubao.png" alt="支付宝" width="30%">
+<span><img src="assets/zhifubao.png" alt="支付宝" width="20%" align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/weixin.png" alt="微信 " width="30%">
+<img src="assets/weixin.png" alt="微信 " width="20%" align="left"></span>
